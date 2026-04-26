@@ -2715,7 +2715,7 @@ function run(Player)
 --Edit values for DEFAULT size, saves you time to configure the scale--
 			CurrentClothes = {},
 			PartList = Function.PartListDefault(),
-			BreastsScale = 2.5,
+			BreastsScale = 2.367,
 			ButtsScale = 1.267,
 			BodyPartPhysics = true,
 			CurrentPartList = {
