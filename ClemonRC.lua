@@ -42,9 +42,10 @@ function run(Player)
 
 
 	local SelectPlayer = Player.Name
-
-	local PositionPhysicsMultiply = 100
-	local RotationPhysicsMultiply = 4
+		--CONFIGURABLE PHYSICS--
+--rotation is boobs, position is ass--
+	local PositionPhysicsMultiply = 10
+	local RotationPhysicsMultiply = 6.7
 
 
 	function Function.PartListDefault()	
@@ -2710,7 +2711,8 @@ function run(Player)
 
 	function Function.PlayerDataDefault()
 		return {
-
+--CONFIGURABLE BODYPARTS--
+--Edit values for DEFAULT size, saves you time to configure the scale--
 			CurrentClothes = {},
 			PartList = Function.PartListDefault(),
 			BreastsScale = 2.5,
