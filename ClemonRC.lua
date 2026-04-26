@@ -44,7 +44,7 @@ function run(Player)
 	local SelectPlayer = Player.Name
 		--CONFIGURABLE PHYSICS--
 --rotation is boobs, position is ass--
-	local PositionPhysicsMultiply = 15.67
+	local PositionPhysicsMultiply = 21.67
 	local RotationPhysicsMultiply = 4.67
 
 
@@ -2716,7 +2716,7 @@ function run(Player)
 			CurrentClothes = {},
 			PartList = Function.PartListDefault(),
 			BreastsScale = 3,
-			ButtsScale = 1,
+			ButtsScale = 2.167,
 			BodyPartPhysics = true,
 			CurrentPartList = {
 				Organ = {},
