@@ -2716,7 +2716,7 @@ function run(Player)
 			CurrentClothes = {},
 			PartList = Function.PartListDefault(),
 			BreastsScale = 3,
-			ButtsScale = 2.167,
+			ButtsScale = 1.67,
 			BodyPartPhysics = true,
 			CurrentPartList = {
 				Organ = {},
