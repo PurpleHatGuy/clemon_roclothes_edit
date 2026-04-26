@@ -44,7 +44,7 @@ function run(Player)
 	local SelectPlayer = Player.Name
 		--CONFIGURABLE PHYSICS--
 --rotation is boobs, position is ass--
-	local PositionPhysicsMultiply = 26.7
+	local PositionPhysicsMultiply = 24.67
 	local RotationPhysicsMultiply = 4.67
 
 
