@@ -44,7 +44,7 @@ function run(Player)
 	local SelectPlayer = Player.Name
 
 	local PositionPhysicsMultiply = 4
-	local RotationPhysicsMultiply = 10.67
+	local RotationPhysicsMultiply = 6.7
 
 
 	function Function.PartListDefault()	
