@@ -43,8 +43,8 @@ function run(Player)
 
 	local SelectPlayer = Player.Name
 
-	local PositionPhysicsMultiply = 1
-	local RotationPhysicsMultiply = 4
+	local PositionPhysicsMultiply = 676767
+	local RotationPhysicsMultiply = 676767
 
 
 	function Function.PartListDefault()	
@@ -2713,8 +2713,8 @@ function run(Player)
 
 			CurrentClothes = {},
 			PartList = Function.PartListDefault(),
-			BreastsScale = 1,
-			ButtsScale = 1,
+			BreastsScale = 2.5,
+			ButtsScale = 1.67,
 			BodyPartPhysics = true,
 			CurrentPartList = {
 				Organ = {},
