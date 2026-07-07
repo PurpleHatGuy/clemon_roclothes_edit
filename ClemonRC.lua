@@ -92,8 +92,8 @@ function run(Player)
 						["Shape"] = Enum.PartType.Block,
 						["Size"] = {
 							["y"] = 2.292320728302002,
-							["x"] = 2,
-							["z"] = 2
+							["x"] = 1.5,
+							["z"] = 1.4
 						}
 					},
 					["Right Leg"] = {
@@ -136,8 +136,8 @@ function run(Player)
 						["Shape"] = Enum.PartType.Block,
 						["Size"] = {
 							["y"] = 2.292334794998169,
-							["x"] = 2,
-							["z"] = 2
+							["x"] = 1.5,
+							["z"] = 1.4
 						}
 					},
 
@@ -182,8 +182,8 @@ function run(Player)
 						["Shape"] = Enum.PartType.Block,
 						["Size"] = {
 							["y"] = 2.292320728302002,
-							["x"] = 2,
-							["z"] = 2
+							["x"] = 1.5,
+							["z"] = 1.4
 						}
 					},
 					["Right Leg UV"] = {
@@ -227,8 +227,8 @@ function run(Player)
 						["Shape"] = Enum.PartType.Block,
 						["Size"] = {
 							["y"] = 2.292334794998169,
-							["x"] = 2,
-							["z"] = 2
+							["x"] = 1.5,
+							["z"] = 1.4
 						}
 					},
 					["TorsoMesh"] = {
